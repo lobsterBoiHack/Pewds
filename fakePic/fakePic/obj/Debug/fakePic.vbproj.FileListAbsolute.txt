@@ -1,0 +1,24 @@
+C:\Users\jglau\source\repos\fakePic\fakePic\bin\Debug\fakePic.exe.config
+C:\Users\jglau\source\repos\fakePic\fakePic\bin\Debug\fakePic.exe
+C:\Users\jglau\source\repos\fakePic\fakePic\bin\Debug\fakePic.pdb
+C:\Users\jglau\source\repos\fakePic\fakePic\bin\Debug\fakePic.xml
+C:\Users\jglau\source\repos\fakePic\fakePic\obj\Debug\fakePic.vbprojAssemblyReference.cache
+C:\Users\jglau\source\repos\fakePic\fakePic\obj\Debug\fakePic.Resources.resources
+C:\Users\jglau\source\repos\fakePic\fakePic\obj\Debug\fakePic.vbproj.GenerateResource.cache
+C:\Users\jglau\source\repos\fakePic\fakePic\obj\Debug\fakePic.vbproj.CoreCompileInputs.cache
+C:\Users\jglau\source\repos\fakePic\fakePic\obj\Debug\fakePic.exe
+C:\Users\jglau\source\repos\fakePic\fakePic\obj\Debug\fakePic.xml
+C:\Users\jglau\source\repos\fakePic\fakePic\obj\Debug\fakePic.pdb
+C:\Users\jglau\source\repos\fakePic\fakePic\obj\Debug\fakePic.Form1.resources
+C:\Users\Josiah Lauby\source\repos\fakePic\fakePic\bin\Debug\fakePic.exe.config
+C:\Users\Josiah Lauby\source\repos\fakePic\fakePic\bin\Debug\fakePic.exe
+C:\Users\Josiah Lauby\source\repos\fakePic\fakePic\bin\Debug\fakePic.pdb
+C:\Users\Josiah Lauby\source\repos\fakePic\fakePic\bin\Debug\fakePic.xml
+C:\Users\Josiah Lauby\source\repos\fakePic\fakePic\obj\Debug\fakePic.Form1.resources
+C:\Users\Josiah Lauby\source\repos\fakePic\fakePic\obj\Debug\fakePic.Resources.resources
+C:\Users\Josiah Lauby\source\repos\fakePic\fakePic\obj\Debug\fakePic.vbproj.GenerateResource.Cache
+C:\Users\Josiah Lauby\source\repos\fakePic\fakePic\obj\Debug\fakePic.vbproj.CoreCompileInputs.cache
+C:\Users\Josiah Lauby\source\repos\fakePic\fakePic\obj\Debug\fakePic.exe
+C:\Users\Josiah Lauby\source\repos\fakePic\fakePic\obj\Debug\fakePic.xml
+C:\Users\Josiah Lauby\source\repos\fakePic\fakePic\obj\Debug\fakePic.pdb
+C:\Users\Josiah Lauby\source\repos\fakePic\fakePic\obj\Debug\fakePic.vbprojResolveAssemblyReference.cache
